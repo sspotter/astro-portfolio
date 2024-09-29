@@ -7,12 +7,12 @@ export const loaderAnimation = [
 ]
 
 export const LINKS = {
-  github: 'https://github.com/bue221',
-  linkedin: 'https://www.linkedin.com/in/bue221/',
-  mail: 'mailto:camiloplaza3@gmail.com',
-  instagram: 'https://www.instagram.com/caj_ink/',
-  medium: 'https://ladvace.medium.com/',
-  discord: 'https://discordapp.com/users/163300027618295808',
+  github: 'https://trippyyy333.github.io/cv',
+  linkedin: 'https://www.linkedin.com/in/mazen-97707727b//',
+  mail: 'mailto:maz.sarwat@gmail.com',
+  instagram: 'https://www.instagram.com/mazensarwat/',
+  medium: 'https://medium.com/',
+  discord: 'https://discordapp.com/users/830911202774351896',
 }
 
 // Global
@@ -20,7 +20,7 @@ export const SITE: Site = {
   TITLE: 'Astro Sphere',
   DESCRIPTION:
     'Welcome to Astro Sphere, a portfolio and blog for designers and developers.',
-  AUTHOR: 'Mark Horn',
+  AUTHOR: 'Mazen Sarwat Ismail',
 }
 
 // Work Page
@@ -67,18 +67,18 @@ export const STUDIES = [
     link: 'https://www.udemy.com/',
     date: '2018 - 2022',
   },
-  {
-    title: '...',
-    institution: 'Youtube',
-    link: 'https://www.youtube.com/@midulive',
-    date: '2018 - 2022',
-  },
-  {
-    title: 'Tattoo Artist',
-    institution: 'Tattoo Academy',
-    link: 'https://www.instagram.com/tattoodcacademy/',
-    date: '2024 - 2025',
-  },
+  // {
+  //   title: '...',
+  //   institution: 'Youtube',
+  //   link: 'https://www.youtube.com/@midulive',
+  //   date: '2018 - 2022',
+  // },
+  // {
+  //   title: 'Tattoo Artist',
+  //   institution: 'Tattoo Academy',
+  //   link: 'https://www.instagram.com/tattoodcacademy/',
+  //   date: '2024 - 2025',
+  // },
 ]
 
 export const EXPERIENCE = [
